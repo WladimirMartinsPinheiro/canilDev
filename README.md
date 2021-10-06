@@ -9,6 +9,6 @@ Parte do Curso de Node + TypeScript
 
 ### para rodar o projeto
 
-`nom run start-dev`
+`npm run start-dev`
 
 
